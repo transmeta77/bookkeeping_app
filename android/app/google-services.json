@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643469253298",
+    "project_id": "bookkeeping-fae0c",
+    "storage_bucket": "bookkeeping-fae0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643469253298:android:4574e7cda2b6380f70c7ab",
+        "android_client_info": {
+          "package_name": "com.example.bookkeeping_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAyM38qf0DqdjOCWlYETfLgRJIJ2TEdjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
